@@ -1,0 +1,6 @@
+Type,Effective,Booked,Kilometer,Time
+Rail,Yes,Yes,1000,10
+Road,Yes,No,,0
+Water,No,No,5000,15
+Air,MayBe,No,3000,2
+Hybrid,Yes,Yes,20000,20
